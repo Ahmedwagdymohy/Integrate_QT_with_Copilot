@@ -23,3 +23,6 @@
  
 9. for agentJs go to the place where the copilot.vim is installed take `language-server.js` path of the file and place it in QT , it will look like this :
 `C:\Users\study\vimfiles\pack\github\start\copilot.vim\dist\language-server.js`
+
+10. after this it should looks like this :
+![alt text](image.png)
