@@ -1,2 +1,2 @@
-# Integrate_QT_with_Copilot
-Add GitHub Copilot to QT creator
+# How to Add GitHub Copilot to QT creator
+1. Install the required Dependancies
