@@ -25,4 +25,5 @@
 `C:\Users\study\vimfiles\pack\github\start\copilot.vim\dist\language-server.js`
 
 10. after this it should looks like this :
+
 ![alt text](image.png)
